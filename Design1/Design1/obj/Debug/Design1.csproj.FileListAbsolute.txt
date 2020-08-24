@@ -1,0 +1,10 @@
+C:\Users\kazim\source\repos\Design1\Design1\bin\Debug\Design1.exe.config
+C:\Users\kazim\source\repos\Design1\Design1\bin\Debug\Design1.exe
+C:\Users\kazim\source\repos\Design1\Design1\bin\Debug\Design1.pdb
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.csprojAssemblyReference.cache
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.Properties.Resources.resources
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.csproj.GenerateResource.cache
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.csproj.CoreCompileInputs.cache
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.exe
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.pdb
+C:\Users\kazim\source\repos\Design1\Design1\obj\Debug\Design1.Form1.resources
